@@ -70,11 +70,10 @@ SQLD (SQL Developer), 2025</p>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
     </td>
-    <!--
+    
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Elasticsearch" /><br>Elasticsearch
+      <img src="https://cdn.simpleicons.org/elasticsearch/005571" width="48" height="48" alt="Elasticsearch" />     <br>Elasticsearch
     </td>
-    -->
   </tr>
 </table>
 
