@@ -85,20 +85,18 @@ SQLD (SQL Developer), 2025</p>
 | 🛍 [롯데ON 클론 팀 프로젝트](https://github.com/Gyeol00/lotteon) | Spring Boot 기반 쇼핑몰 클론 프로젝트로, 상품, 장바구니, 회원, 관리자 기능 구현 및 GitHub Actions 기반 CI/CD 자동 배포 적용 | Java, Spring Boot, MySQL, Redis, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.04.11 ~ 2025.05.23 |
 | 🏫 [그린대학교 시스템 팀 프로젝트](https://github.com/Gyeol00/greenUniversity) | Spring 기반의 학사 관리 시스템으로 학생, 성적, 공지사항 관리 기능 구현 및 GitHub Actions를 활용한 CI/CD와 AWS EC2 배포 적용 | Java, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.03.11 ~ 2025.04.04 |
 | 🛒 [팜스토리 쇼핑몰 팀 프로젝트](https://github.com/Gyeol00/farmStory) | Java JSP 기반의 쇼핑몰 구현 프로젝트로 게시판, 상품 목록, 장바구니, 주문, 관리자 기능 포함 | Java, JSP, MySQL, HTML5, CSS3, JavaScript | 2025.03.04 ~ 2025.03.07 |
-
-> 각 프로젝트 리포지토리에 들어가면 자세한 설명 확인 가능합니다.
-<!--
 | 📦 [상품 검색 최적화 시스템 with Elasticsearch](https://github.com/Gyeol00/elasticsearch-project) | 쇼핑몰 상품 목록 데이터를 크롤링하여 MySQL에 저장하고, Logstash로 Elasticsearch에 자동 연동 후 Nori 형태소 분석기로 검색 정확도 개선. Kibana를 통해 데이터 시각화도 구현 | Java, Spring Boot, MySQL, Logstash, Elasticsearch, Kibana, HTML5, CSS3, JavaScript | 2025.05 ~ 진행 중 |
 [이커머스 시스템](https://github.com/Gyeol00/ecommerce)  
 [개인 포트폴리오 웹사이트](...)
--->
+
+> 각 프로젝트 리포지토리에 들어가면 자세한 설명 확인 가능합니다.
 ---
 
 ### 📫 Contact
 
-email: gyeol000726@gmail.com  
+email: sohyoun26@gmail.com  
 <!--[LinkedIn](https://linkedin.com/in/...)-->
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Gyeol00/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/kimsohyeon97/count.svg)
