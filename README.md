@@ -93,7 +93,7 @@ SQLD (SQL Developer), 2025</p>
 ### 📫 Contact
 
 email: sohyoun26@gmail.com  
-<!--[LinkedIn](https://linkedin.com/in/...)-->
+notion: https://fish-fahrenheit-662.notion.site/20d4ffb4f47b8052a216f86f5e8fa762?source=copy_link
 
 ---
 
