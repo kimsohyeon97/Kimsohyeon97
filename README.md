@@ -6,7 +6,7 @@
 ---
 
 ### 📜 Certifications
-<p>정보처리기사(필기) ("Engineer Information Processing), 2025<br>
+<p>정보처리기사 ("Engineer Information Processing), 2025<br>
 SQLD (SQL Developer), 2025</p>
 
 ---
